@@ -2,7 +2,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: simple-deployment
+  name: dapp-deployment
   annotations:
     planktron.io/app: simple-go-app
 spec:
